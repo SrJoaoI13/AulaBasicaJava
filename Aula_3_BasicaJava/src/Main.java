@@ -8,7 +8,7 @@ public class Main {
         notas.add(8.0);
 
        for(double nota:notas){
-           System.out.printf("Nota: "+nota);
+           System.out.println("Nota: " +nota);
        }
 }
 }
